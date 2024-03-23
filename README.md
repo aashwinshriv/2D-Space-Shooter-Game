@@ -1,7 +1,5 @@
 # Space Shooter
 
-![Space Shooter Screenshot]
-
 ## Overview
 
 Space Shooter is an exciting 2D arcade-style game developed in Unity. Players take control of a spaceship and navigate through space while battling against waves of enemy ships. The game features fast-paced action, power-ups, and challenging boss fights.
