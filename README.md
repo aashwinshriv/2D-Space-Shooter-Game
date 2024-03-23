@@ -1,6 +1,6 @@
 # Space Shooter
 
-![Space Shooter Screenshot](screenshot.png)
+![Space Shooter Screenshot]
 
 ## Overview
 
